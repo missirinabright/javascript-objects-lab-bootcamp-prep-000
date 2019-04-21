@@ -1,7 +1,7 @@
 var recipes = {prop: 1};
-function updateObjectWithKeyAndValue() {
-  return Object.assign({[prop2]:2});
-  }
+// function updateObjectWithKeyAndValue() {
+//   return Object.assign({[prop2]:2});
+//   }
 
 
 //   describe('updateObjectWithKeyAndValue(object, key, value)', function() {
